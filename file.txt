@@ -70,6 +70,12 @@
 /usr/local/apache2/conf/extra/httpd-vhosts.conf
 /usr/local/apache2/conf/httpd.conf
 /usr/local/apache2/conf/php.ini
+/usr/local/nginx/conf/nginx.conf
+/usr/local/nginx/nginx.conf
+/usr/local/nginx/conf.d/error2.conf
+/usr/local/nginx/conf.d/default
+/usr/local/nginx/sites-enabled/default
+/usr/local/nginx/sites-available/default
 /usr/local/lib/php.ini
 /usr/local/mysql/my.cnf
 /usr/local/php56/etc/php.ini
