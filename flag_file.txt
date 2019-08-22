@@ -34,6 +34,7 @@
 /Th1s_1s_fl4g
 /Th1s_1s_Flag
 /Th1s_1s_Fl4g
+/readflag
 /usr/flag
 /usr/flag.txt
 /usr/f1ag
@@ -70,6 +71,7 @@
 /usr/Th1s_1s_fl4g
 /usr/Th1s_1s_Flag
 /usr/Th1s_1s_Fl4g
+/usr/readflag
 /home/flag
 /home/flag.txt
 /home/f1ag
@@ -106,6 +108,7 @@
 /home/Th1s_1s_fl4g
 /home/Th1s_1s_Flag
 /home/Th1s_1s_Fl4g
+/home/readflag
 /var/flag
 /var/flag.txt
 /var/f1ag
@@ -142,6 +145,7 @@
 /var/Th1s_1s_fl4g
 /var/Th1s_1s_Flag
 /var/Th1s_1s_Fl4g
+/var/readflag
 /tmp/flag
 /tmp/flag.txt
 /tmp/f1ag
@@ -178,6 +182,7 @@
 /tmp/Th1s_1s_fl4g
 /tmp/Th1s_1s_Flag
 /tmp/Th1s_1s_Fl4g
+/tmp/readflag
 /var/tmp/flag
 /var/tmp/flag.txt
 /var/tmp/f1ag
@@ -214,6 +219,7 @@
 /var/tmp/Th1s_1s_fl4g
 /var/tmp/Th1s_1s_Flag
 /var/tmp/Th1s_1s_Fl4g
+/var/tmp/readflag
 /var/www/flag
 /var/www/flag.txt
 /var/www/f1ag
@@ -250,6 +256,7 @@
 /var/www/Th1s_1s_fl4g
 /var/www/Th1s_1s_Flag
 /var/www/Th1s_1s_Fl4g
+/var/www/readflag
 /var/www/html/flag
 /var/www/html/flag.txt
 /var/www/html/f1ag
@@ -286,6 +293,7 @@
 /var/www/html/Th1s_1s_fl4g
 /var/www/html/Th1s_1s_Flag
 /var/www/html/Th1s_1s_Fl4g
+/var/www/html/readflag
 /app/flag
 /app/flag.txt
 /app/f1ag
@@ -322,6 +330,7 @@
 /app/Th1s_1s_fl4g
 /app/Th1s_1s_Flag
 /app/Th1s_1s_Fl4g
+/app/readflag
 /www/flag
 /www/flag.txt
 /www/f1ag
@@ -358,6 +367,7 @@
 /www/Th1s_1s_fl4g
 /www/Th1s_1s_Flag
 /www/Th1s_1s_Fl4g
+/www/readflag
 /proc/self/cwd/flag
 /proc/self/cwd/flag.txt
 /proc/self/cwd/f1ag
@@ -394,6 +404,7 @@
 /proc/self/cwd/Th1s_1s_fl4g
 /proc/self/cwd/Th1s_1s_Flag
 /proc/self/cwd/Th1s_1s_Fl4g
+/proc/self/cwd/readflag
 /root/flag
 /root/flag.txt
 /root/f1ag
@@ -430,6 +441,7 @@
 /root/Th1s_1s_fl4g
 /root/Th1s_1s_Flag
 /root/Th1s_1s_Fl4g
+/root/readflag
 /app/app/flag
 /app/app/flag.txt
 /app/app/f1ag
@@ -466,6 +478,7 @@
 /app/app/Th1s_1s_fl4g
 /app/app/Th1s_1s_Flag
 /app/app/Th1s_1s_Fl4g
+/app/app/readflag
 /www/wwwroot/flag
 /www/wwwroot/flag.txt
 /www/wwwroot/f1ag
@@ -502,6 +515,7 @@
 /www/wwwroot/Th1s_1s_fl4g
 /www/wwwroot/Th1s_1s_Flag
 /www/wwwroot/Th1s_1s_Fl4g
+/www/wwwroot/readflag
 /usr/share/nginx/html/flag
 /usr/share/nginx/html/flag.txt
 /usr/share/nginx/html/f1ag
@@ -538,3 +552,4 @@
 /usr/share/nginx/html/Th1s_1s_fl4g
 /usr/share/nginx/html/Th1s_1s_Flag
 /usr/share/nginx/html/Th1s_1s_Fl4g
+/usr/share/nginx/html/readflag
