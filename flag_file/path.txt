@@ -1,0 +1,15 @@
+/
+/usr/
+/home/
+/var/
+/tmp/
+/var/tmp/
+/var/www/
+/var/www/html/
+/app/
+/www/
+/proc/self/cwd/
+/root/
+/app/app/
+/www/wwwroot/
+/usr/share/nginx/html/
