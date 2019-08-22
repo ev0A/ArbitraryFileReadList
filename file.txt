@@ -23,10 +23,6 @@
 /www/index.html
 /web/index.php
 /web/index.html
-/flag
-/var/www/html/flag
-/var/www/flag
-/tmp/flag
 
 /etc/apache2/apache2.conf
 /etc/apache2/conf-available/docker-php.conf
