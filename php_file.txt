@@ -88,6 +88,8 @@
 /etc/httpd/logs/error.log
 /etc/httpd/logs/access_log
 /home/www/logs/php-fpm.log
+/var/log/apache2/error.log
+/var/log/apache2/access.log
 /var/log/access_log
 /var/log/access.log
 /var/log/error_log
