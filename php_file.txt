@@ -1,5 +1,7 @@
 /data/www/index.html
 /data/www/index.php
+/web/html/index.php
+/web/html/index.html
 /home/www/htdocs
 /home/www/htdocs/index.html
 /home/www/htdocs/index.php
