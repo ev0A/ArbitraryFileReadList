@@ -106,3 +106,10 @@
 /.dockerenv
 /proc/self/cmdline
 /proc/self/environ
+
+/app/app.py
+/app/main.py
+/app/uwsgi.ini
+/www/app.py
+/www/main.py
+/www/uwsgi.ini
