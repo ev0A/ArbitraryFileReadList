@@ -135,10 +135,10 @@
 /var/mysql.log
 /etc/apache2/apache2.conf
 /etc/apache2/sites-available/000-default.conf
+/etc/apache2/sites-enabled/000-default.conf
 /etc/nginx/sites-available/default
+/etc/nginx/sites-enabled/default
 /etc/nginx/nginx.conf
 /usr/local/lib/php/pearcmd.php
 /usr/share/pear/pearcmd.php
 /usr/share/php/pearcmd.php
-/etc/nginx/sites-available/default
-/etc/apache2/sites-enabled/000-default.conf
